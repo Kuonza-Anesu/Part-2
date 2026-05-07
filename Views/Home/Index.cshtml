@@ -1,0 +1,76 @@
+﻿@{
+    ViewData["Title"] = "Main Menu";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Event Management</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+
+            body {
+                background-color: #f4f6f9;
+                font-family: Segoe UI, sans-serif;
+            }
+
+            .navbar {
+                background-color: #ff8c00;
+            }
+
+            .navbar-brand {
+                color: white !important;
+                font-weight: bold;
+            }
+
+            .main-section {
+                height: 80vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+            }
+
+            .btn-custom {
+                margin: 10px;
+                padding: 10px 25px;
+            }
+
+    </style>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg">
+        <div class="container">
+            <a class="navbar-brand" href="#">Event Management</a>
+        </div>
+    </nav>
+
+    <div class="main-section">
+
+        <div>
+
+            <h1 class="mb-3">Welcome</h1>
+
+            <p class="mb-4">Plan, book and manage your events easily.</p>
+
+            <a href="/Venue" class="btn btn-success btn-custom">Venues</a>
+
+            <a href="/Event" class="btn btn-warning btn-custom">Events</a>
+
+            <a href="/Booking" class="btn btn-primary btn-custom">Bookings</a>
+
+        </div>
+
+    </div>
+
+</body>
+</html>
+
+

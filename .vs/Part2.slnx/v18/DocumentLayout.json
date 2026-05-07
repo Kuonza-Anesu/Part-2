@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\models\\bookingdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:models\\bookingdetailsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:views\\venue\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|c:\\users\\lab_services_student\\desktop\\cldv6211-poe-part2-kuonza-anesu\\cldvpart2-main\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEF19333-75F6-689C-273C-493F82B1FAFA}|Part2.csproj|solutionrelative:views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:18:57.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingDetailsView.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Models\\BookingDetailsView.cs",
+              "RelativeDocumentMoniker": "Models\\BookingDetailsView.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Models\\BookingDetailsView.cs",
+              "RelativeToolTip": "Models\\BookingDetailsView.cs",
+              "ViewState": "AgIAAAMAAABAMzMzMzPrvwkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:44:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T15:32:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAEEAAACgNzMzMzMuwEwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:31:46.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T15:18:08.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAFAAAAAAfmZmZmYHwGIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:07:48.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAGoAAAAAxMzMzMwOwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:14:45.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Edit.cshtml",
+              "ViewState": "AgIAABMAAAAAmpmZmZkOwCIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T13:11:16.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6211-poe-part2-Kuonza-Anesu\\CLDVpart2-main\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAQAAADgl5mZmZkewA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-05T13:10:52.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

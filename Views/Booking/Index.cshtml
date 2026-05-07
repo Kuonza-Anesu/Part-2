@@ -1,0 +1,81 @@
+﻿@model IEnumerable<EventEase.Models.BookingDetailsView>
+
+@{
+    ViewData["Title"] = "BookingDetailsView";
+}
+
+<div class="container mt-4">
+
+    <h2>Bookings</h2>
+
+    <form asp-action="Index" method="get" class="mb-3">
+        <div class="input-group">
+            <input type="text" name="searchString"
+                   value="@ViewBag.SearchString"
+                   class="form-control"
+                   placeholder="Search by Booking ID or Event Name" />
+
+            <button type="submit" class="btn btn-primary">Search</button>
+        </div>
+    </form>
+
+    <p>
+        <a asp-action="Create" class="btn btn-success">Create Booking</a>
+    </p>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.BookingID)</th>
+                <th>@Html.DisplayNameFor(model => model.BookingDate)</th>
+                <th>@Html.DisplayNameFor(model => model.EventID)</th>
+                <th>@Html.DisplayNameFor(model => model.EventName)</th>
+                <th>@Html.DisplayNameFor(model => model.EventDate)</th>
+                <th>@Html.DisplayNameFor(model => model.Description)</th>
+                <th>@Html.DisplayNameFor(model => model.VenueID)</th>
+                <th>@Html.DisplayNameFor(model => model.VenueName)</th>
+                <th>@Html.DisplayNameFor(model => model.Location)</th>
+                <th>@Html.DisplayNameFor(model => model.Capacity)</th>
+                <th>@Html.DisplayNameFor(model => model.ImageURL)</th>
+
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.BookingID</td>
+                    <td>@item.BookingDate</td>
+                    <td>@item.EventID</td>
+                    <td>@item.EventName</td>
+                    <td>@item.EventDate</td>
+                    <td>@item.Description</td>
+                    <td>@item.VenueID</td>
+                    <td>@item.VenueName</td>
+                    <td>@item.Location</td>
+                    <td>@item.Capacity</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImageURL))
+                        {
+                            <img src="@item.ImageURL" alt="Venue Image" style="width:100px;height:100px;" />
+
+                        }
+                        else
+                        {
+                            <span>No Image</span>
+                    
+                        }
+                    
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.BookingID">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.BookingID">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.BookingID">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
